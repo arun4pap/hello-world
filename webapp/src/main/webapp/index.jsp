@@ -10,6 +10,6 @@
 <body>
 <h1> Hi Arun Pandiyan </h1><br>
 <strong>Current Time is</strong>: <%=new Date() %><br>
-<h2> Good Night... Happy Learning </h2>
+<h2> Good Night... Happy Learning. </h2>
 </body>
 </html>
